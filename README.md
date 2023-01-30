@@ -1,5 +1,12 @@
-# ProjetoIndividualM4
-Banco de Dados
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=EBE800&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Projeto+SISTEMA+RESILIA!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=%23ConfiaNoProcesso)](https://git.io/typing-svg)
+
+
+
+</h1>
 # :desktop_computer: A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. 
 
 
